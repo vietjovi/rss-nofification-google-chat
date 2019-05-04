@@ -2,13 +2,14 @@
 ## Using this tool to notify news that get from RSS Feed
 
 ### Requirement:  
-Python 2.5+  
+Python 2.5+. 
+Pip. 
 
 ### Install dependency:
-pip install -r requirement
+pip install -r requirements.txt
 
 ### Usage:
-Add RSS feeds to rss.conf && set Google Chat webhook in *rssbot.py* (variable: `urlWebhook`).   
+Add RSS feeds to rss.conf && set Google Chat webhook in *rssbot.py* (variable: `googleChatWebHook`).   
 Run the following command. 
 `python /path_to_script/rssbot.py`
 

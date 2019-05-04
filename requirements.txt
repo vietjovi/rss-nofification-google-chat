@@ -1,2 +1,5 @@
 feedparser
 datetime
+emoji
+httplib2
+json
