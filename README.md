@@ -7,8 +7,12 @@ Python 2.5+
 ### Install dependency:
 pip install -r requirement
 
+### Configuration
+
 ### Usage:
-python /path_to_script/rssbot.py
+Add RSS feeds to rss.conf
+run the following command
+`python /path_to_script/rssbot.py`
 
 ### Crontab:
 `* */10 * * * python /path_to_script/rssbot.py #Remember set timedelta in rssbot.py`
