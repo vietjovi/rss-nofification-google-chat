@@ -2,8 +2,7 @@
 ## Using this tool to notify news that get from RSS Feed
 
 ### Requirement:  
-Python 2.5+. 
-Pip. 
+Python 2.5+, Pip
 
 ### Install dependency:
 pip install -r requirements.txt
