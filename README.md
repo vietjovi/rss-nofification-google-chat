@@ -1,15 +1,14 @@
 # rss-nofification-google-chat
-##rss-nofification-google-chat
-Using this tool to notify news that get from RSS Feed
+## Using this tool to notify news that get from RSS Feed
 
-###Requirement:  
+### Requirement:  
 Python 2.5+  
 
-###Install dependency:
+### Install dependency:
 pip install -r requirement
 
-###Usage:
+### Usage:
 python /path_to_script/rssbot.py
 
-###Crontab:
+### Crontab:
 `* */10 * * * python /path_to_script/rssbot.py #Remember set timedelta in rssbot.py`
