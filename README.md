@@ -7,11 +7,9 @@ Python 2.5+
 ### Install dependency:
 pip install -r requirement
 
-### Configuration
-
 ### Usage:
-Add RSS feeds to rss.conf
-run the following command
+Add RSS feeds to rss.conf && set google chat webhook in *rssbot.py*(variable: `urlWebhook`). 
+run the following command. 
 `python /path_to_script/rssbot.py`
 
 ### Crontab:
